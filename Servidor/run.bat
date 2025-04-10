@@ -1,0 +1,1 @@
+java --module-path "C:\Java_FX\javafx-sdk-23.0.2\lib" --add-modules javafx.controls,javafx.fxml --add-opens javafx.graphics/javafx.scene=ALL-UNNAMED -jar target/C_S-1.0-SNAPSHOT.jar
